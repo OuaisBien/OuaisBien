@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peter (Yu Hsiang), a math-major undergrad at NUS.
+- 👋 Hi, I’m Peter, a math-major undergrad at NUS.
 
 
 <!---
