@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peter, a math-major undergrad at NUS.
+- 👋 Hi, I’m Lucien, currently a Mathématiques et applicaitons master at Paris-Dauphine, formerly a mathematics and statistics major at NUS.
 
 
 <!---
